@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-item-large {
+    font-size: 2rem; /* Adjust the size as needed */
+}
+ .navbar-custom, .footer-custom {
+  min-height: 108px;
+ }
